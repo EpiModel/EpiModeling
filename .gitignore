@@ -2,3 +2,8 @@
 .DS_Store
 .Rproj.user
 *.Rproj
+
+# Output from running sbatchExample
+sbatchExample/logs/
+sbatchExample/output/
+sbatchExample/*.rds
